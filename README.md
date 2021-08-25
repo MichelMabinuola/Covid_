@@ -28,7 +28,7 @@
   * https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv
 
 
-@date_2020/05
+
 @author_ Michael Mabinuola
 COVID-19 Exploratory analysis.
 
