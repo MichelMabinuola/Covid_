@@ -10,13 +10,13 @@
 ## Tools
   * Python and R was utilized to for the exploratory analysis
 
-## Python Technologies 
+## Python Libraries
   * pandas for data processing and cleaning
   * numpy for linear algebra and statistical analysis
   * matplotlib and seaborn for visualization
   * Requests and BeautifulSoup for webscraping
 
-## R technologies
+## R Libraries
   * GADM for spacial analysis and visualization of real time map
   * plyr, rvest, dplyr, tidyverse, sf, sp (Allows us to plot the spatial polygon that the GADM data is stored at.),raster (Allows to read spatial file into)
   * ggmap, RColorBrewer
